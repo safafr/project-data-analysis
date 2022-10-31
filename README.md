@@ -6,7 +6,9 @@
 En 1847, le médecin hongrois Ignaz Semmelweis fait une découverte révolutionnaire : il découvre le lavage des mains. Les mains contaminées étaient une cause majeure de fièvre infantile et en imposant le lavage des mains dans son hôpital, il a sauvé des centaines de vies.
 
 Ici, j'ai réanalysé les données médicales recueillies par Semmelweis.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/safafr/project-data-analysis/main?filepath=notebook.ipynb)
+# Présentation
 ceci est un prototype de projet en analyse de donnée on a utilisé la bibliothèque pandas,matplotlib,numpy et tabulate
 
 # :file_folder: Base de donnée
