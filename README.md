@@ -12,7 +12,7 @@ Ici, j'ai réanalysé les données médicales recueillies par Semmelweis.
 ceci est un prototype de projet en analyse de donnée on a utilisé la bibliothèque pandas,matplotlib,numpy et tabulate
 
 # :file_folder: Base de donnée
-**La base de donnée "Yearly" contient de donnée:
+La base de donnée "Yearly" contient de donnée:
 |   year |   births |   deaths | clinic   |
 |-------:|---------:|---------:|:---------|
 |   1841 |     3036 |      237 | clinic 1 |
@@ -21,7 +21,7 @@ ceci est un prototype de projet en analyse de donnée on a utilisé la biblioth�
 |   1844 |     3157 |      260 | clinic 1 |
 |   1845 |     3492 |      241 | clinic 1 |
 
-**La base de donnée "Monthly" contient de donnée:
+La base de donnée "Monthly" contient de donnée:
 |    | date                |   births |   deaths |
 |---:|:--------------------|---------:|---------:|
 |  0 | 1841-01-01 00:00:00 |      254 |       37 |
